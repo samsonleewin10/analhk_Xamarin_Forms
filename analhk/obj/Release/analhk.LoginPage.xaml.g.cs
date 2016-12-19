@@ -26,11 +26,15 @@ namespace analhk {
         private global::Xamarin.Forms.Button LoginBtn;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button HelpBtn;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(LoginPage));
             nameInput = this.FindByName <global::Xamarin.Forms.Entry>("nameInput");
             pwdInput = this.FindByName <global::Xamarin.Forms.Entry>("pwdInput");
             LoginBtn = this.FindByName <global::Xamarin.Forms.Button>("LoginBtn");
+            HelpBtn = this.FindByName <global::Xamarin.Forms.Button>("HelpBtn");
         }
     }
 }

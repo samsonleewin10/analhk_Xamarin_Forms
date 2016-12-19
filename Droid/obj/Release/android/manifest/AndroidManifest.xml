@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.2" package="com.xamarin.sample.analhk">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="21" />
+  <uses-permission android:name="android.permission.CALL_PHONE" />
   <application android:label="analhk" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="analhk.Droid" android:theme="@android:style/Theme.Holo.Light" android:name="md5f715e7848a49de83a7d3c065225d154c.MainActivity">
       <intent-filter>

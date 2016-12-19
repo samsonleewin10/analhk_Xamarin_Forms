@@ -18,10 +18,6 @@
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/optimized/Icon-Small-40@2x.png
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/optimized/Icon-Small-40@3x.png
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/optimized/
-/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/analhkiOS.exe.mdb
-/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/analhkiOS.exe
-/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/analhkiOS.exe
-/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/analhkiOS.exe.mdb
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/Microsoft.WindowsAzure.Mobile.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/Microsoft.WindowsAzure.Mobile.Ext.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/System.Net.Http.Extensions.dll
@@ -35,3 +31,7 @@
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/HockeySDK.iOSBindings.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/analhk.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/analhk.dll.mdb
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/analhkiOS.exe.mdb
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release/analhkiOS.exe
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/analhkiOS.exe
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/analhkiOS.exe.mdb

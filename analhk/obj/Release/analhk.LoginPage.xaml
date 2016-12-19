@@ -8,6 +8,7 @@
 			<Label Text="Password:" />
 			<Entry x:Name="pwdInput" Placeholder="Input Your Password here" IsPassword="true" />
 			<Button x:Name="LoginBtn" Text="Login" BackgroundColor="Teal" TextColor="White" Margin="0,15" />
+			<Button x:Name="HelpBtn" Text="I need help" Margin="0,15" />
 		</StackLayout>
 	</ContentPage.Content>
 </ContentPage>

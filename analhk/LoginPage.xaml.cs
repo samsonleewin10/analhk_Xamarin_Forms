@@ -13,6 +13,7 @@ namespace analhk
 			InitializeComponent();
 
 			LoginBtn.Clicked += LoginBtn_Clicked;
+			HelpBtn.Clicked += OnCall;
 		}
 
 		public async void LoginBtn_Clicked(object sender, EventArgs e)
@@ -36,6 +37,21 @@ namespace analhk
 			else
 			{
 				await DisplayAlert("Login Failure", "Your password is incorrect. Please retry.", "OK");
+			}
+
+		}
+
+		public async void OnCall(object sender, EventArgs e)
+		{
+			if (await this.DisplayAlert(
+				"Dial a Number",
+				"Would you like to call " + "51902387" + "?",
+				"Yes",
+				"No"))
+			{
+				var dialer = DependencyService.Get<IDialer>();
+				if (dialer != null)
+					dialer.Dial("51902387");
 			}
 		}
 	}
