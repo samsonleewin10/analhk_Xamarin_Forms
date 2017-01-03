@@ -6,6 +6,7 @@
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Text.Encoding.Extensions.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Resources.ResourceManager.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Microsoft.Azure.Mobile.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Diagnostics.Tools.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.ServiceModel.Internals.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Microsoft.CSharp.dll
@@ -36,6 +37,7 @@
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Runtime.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.iOS.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Runtime.Extensions.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Microsoft.Azure.Mobile.Crashes.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Threading.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.ObjectModel.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.Forms.Platform.dll
@@ -47,4 +49,5 @@
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Reflection.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Dynamic.Runtime.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Mono.CSharp.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Microsoft.Azure.Mobile.Analytics.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.ComponentModel.Composition.dll

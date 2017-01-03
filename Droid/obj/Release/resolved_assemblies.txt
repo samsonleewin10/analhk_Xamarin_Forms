@@ -19,6 +19,12 @@
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/Xamarin.Forms.Xaml.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/HockeySDK.AndroidBindings.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/HockeySDK.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/Microsoft.Azure.Mobile.Android.Bindings.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/Microsoft.Azure.Mobile.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/Microsoft.Azure.Mobile.Analytics.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/Microsoft.Azure.Mobile.Crashes.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/System.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/System.Xml.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/Droid/obj/Release/android/assets/System.Core.dll

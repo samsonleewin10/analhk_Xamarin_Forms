@@ -119,6 +119,12 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Xaml.dll",
 		"HockeySDK.AndroidBindings.dll",
 		"HockeySDK.dll",
+		"Microsoft.Azure.Mobile.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.dll",
+		"Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Analytics.dll",
+		"Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll",
+		"Microsoft.Azure.Mobile.Crashes.dll",
 		"Java.Interop.dll",
 		"analhk.dll",
 	};

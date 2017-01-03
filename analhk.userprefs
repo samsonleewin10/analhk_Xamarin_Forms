@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{5FA0219F-B063-4D07-800B-CC38BDB5B916}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="analhk/App.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="analhk/LoginPage.xaml.cs">
     <Files>
       <File FileName="analhk/LoginPage.xaml.cs" Line="16" Column="30" />
       <File FileName="analhk/TodoList.xaml.cs" Line="30" Column="10" />
@@ -7,11 +7,11 @@
       <File FileName="Droid/Properties/AndroidManifest.xml" Line="6" Column="12" />
       <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.4.0.20/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="1" Column="1" />
       <File FileName="iOS/AppDelegate.cs" Line="29" Column="4" />
-      <File FileName="Droid/MainActivity.cs" Line="11" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="34" Column="67" />
       <File FileName="analhk/IDialer.cs" Line="2" Column="1" />
       <File FileName="iOS/PhoneDialer.cs" Line="10" Column="36" />
       <File FileName="Droid/PhoneDialer.cs" Line="3" Column="22" />
-      <File FileName="analhk/App.cs" Line="4" Column="1" />
+      <File FileName="analhk/App.cs" Line="7" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />

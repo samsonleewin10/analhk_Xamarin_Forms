@@ -16,3 +16,6 @@
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Xamarin.Forms.Platform.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Xamarin.Forms.Xaml.dll
 /Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/HockeySDK.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Microsoft.Azure.Mobile.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Microsoft.Azure.Mobile.Analytics.dll
+/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Microsoft.Azure.Mobile.Crashes.dll

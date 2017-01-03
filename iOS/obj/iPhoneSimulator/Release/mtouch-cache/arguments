@@ -340,6 +340,12 @@
 	/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/packages/HockeySDK.Xamarin.4.1.0/lib/Xamarin.iOS10/HockeySDK.iOSBindings.dll \
 	-r \
 	/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/analhk.dll \
+	-r \
+	/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Microsoft.Azure.Mobile.Analytics.dll \
+	-r \
+	/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Microsoft.Azure.Mobile.Crashes.dll \
+	-r \
+	/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/analhk/bin/Release/Microsoft.Azure.Mobile.dll \
 	--target-framework \
 	"Xamarin.iOS,v1.0" \
 	/Users/microsoftdx/Downloads/analhk_Xamarin_Forms/iOS/bin/iPhoneSimulator/Release//analhkiOS.exe \
