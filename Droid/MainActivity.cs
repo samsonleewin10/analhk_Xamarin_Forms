@@ -8,7 +8,9 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-using HockeyApp.Android;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 namespace analhk.Droid
 {
@@ -29,10 +31,11 @@ namespace analhk.Droid
 			// Initialize Xamarin Forms
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 
+			MobileCenter.Configure("a6993ff8-d18e-400c-b092-57a78afe897c");
+
 			// Load the main application
 			LoadApplication (new App ());
 
-			CrashManager.Register(this, "319bad794f44430181d1525e1142858d");
 		}
 	}
 }
