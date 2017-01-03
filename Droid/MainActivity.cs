@@ -31,7 +31,7 @@ namespace analhk.Droid
 			// Initialize Xamarin Forms
 			global::Xamarin.Forms.Forms.Init (this, bundle);
 
-			MobileCenter.Configure("a6993ff8-d18e-400c-b092-57a78afe897c");
+			MobileCenter.Configure("4225b428-e4c7-4e71-a842-acb9fa2552d9");
 
 			// Load the main application
 			LoadApplication (new App ());
