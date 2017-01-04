@@ -2,6 +2,8 @@
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
+using Microsoft.Azure.Mobile.Analytics;
+
 namespace analhk
 {
     public partial class TodoList : ContentPage
@@ -40,6 +42,7 @@ namespace analhk
         // Data methods
         async Task AddItem(TodoItem item)
         {
+			Analytics.TrackEvent("Add To-do item");
             await manager.SaveTaskAsync(item);
             todoList.ItemsSource = await manager.GetTodoItemsAsync();
         }
